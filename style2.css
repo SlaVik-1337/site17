@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    margin: 0px;
+} 
+    header {
+    background-color: yellow;
+    }
+    header img{
+    width: 100px;
+    height: 120px;
+}
+nav a{
+    text-decoration: none;
+    color:black;
+    border-right: 10px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+}
+main img{
+   width: 900px;
+    height: 500px;
+    text-align: center;
+}
+main h2{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    margin: 10px
+}
+ol{
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+}
+footer{
+    background-color: yellow;
+    color: black;
+}
+footer a {
+     text-decoration: none;
+    color:black;
+    border-right: 10px;
+    border: 2px solid black;
+    margin: 5px;
+    padding: 5px;
+    
+}
